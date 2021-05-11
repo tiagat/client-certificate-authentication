@@ -139,7 +139,7 @@ $ cfssl gencert -ca=ca.pem -ca-key=ca-key.pem -config=ca-config.json -profile=se
 ```
 
 
-### create SSSL cert for client
+### create SSL cert for client
 
 
 request-client.json
